@@ -53,7 +53,7 @@ public:
     bool isValidPhone() const;
     bool isValid() const; // logic depending on gdprDeleted
 
-    // Utilities
+
     string toString() const;
     friend ostream& operator<<(ostream& os, const Customer& c);
 };

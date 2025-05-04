@@ -18,7 +18,7 @@ public:
     bool emailExists(const string& email) const;
     void addCustomer(const Customer& c);
     void updateCustomer(const string& email, const Customer& updated);
-    void deleteCustomer(const string& email); // doar dacă nu a comandat
+    void deleteCustomer(const string& email);
     void anonymizeCustomer(const string& email, int id);
 
     Customer findByEmail(const string& email) const;

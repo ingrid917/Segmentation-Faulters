@@ -22,7 +22,7 @@ private:
     string remarks;       // optional
 
 public:
-    // Constructors
+
     Employee();
     Employee(const string& firstName,
              const string& lastName,
