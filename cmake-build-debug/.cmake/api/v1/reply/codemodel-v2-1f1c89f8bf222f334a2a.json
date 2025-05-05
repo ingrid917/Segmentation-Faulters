@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Segmentation___Faulters",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Segmentation___Faulters::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Segmentation___Faulters-Debug-7790707292b6af8b17f8.json",
+					"name" : "Segmentation___Faulters",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Matei Ingrid/Documents/FACULTATE UBB/An I/Sem II/OOP/Lab/OOP_Lab5/Proiect OOP Ioana Marica User/ProiectOOP/cmake-build-debug",
+		"source" : "C:/Users/Matei Ingrid/Documents/FACULTATE UBB/An I/Sem II/OOP/Lab/OOP_Lab5/Proiect OOP Ioana Marica User/ProiectOOP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

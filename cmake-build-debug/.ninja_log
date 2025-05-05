@@ -1,0 +1,13 @@
+# ninja log v6
+4	578	7680666933848624	CMakeFiles/Segmentation___Faulters.dir/main.cpp.obj	d85d60f3a05e065d
+20	575	7680666934005816	CMakeFiles/Segmentation___Faulters.dir/User/UserTests.cpp.obj	3396db381b1756ca
+578	683	7680666939588519	Segmentation___Faulters.exe	e0daeee9820dfce8
+8	404	7680666933892647	CMakeFiles/Segmentation___Faulters.dir/User/User.cpp.obj	923384931bbd3914
+16	427	7680666933960573	CMakeFiles/Segmentation___Faulters.dir/User/UserServices.cpp.obj	3e4fb66ace23a960
+12	499	7680666933920400	CMakeFiles/Segmentation___Faulters.dir/User/UserRepository.cpp.obj	2931e385ad47f753
+18	1982	7681402681411538	CMakeFiles/Segmentation___Faulters.dir/main.cpp.obj	542f21852b5eb74a
+156	2539	7681402682796877	CMakeFiles/Segmentation___Faulters.dir/User/User.cpp.obj	ca2dc491ed1bfadf
+266	3297	7681402683902238	CMakeFiles/Segmentation___Faulters.dir/User/UserRepository.cpp.obj	8bd4dd5d13ddb3af
+373	3671	7681402684967557	CMakeFiles/Segmentation___Faulters.dir/User/UserServices.cpp.obj	77dccf14df86a203
+495	5107	7681402686183688	CMakeFiles/Segmentation___Faulters.dir/User/UserTests.cpp.obj	8e28fbf83f7e874d
+5107	7574	7681402732317750	Segmentation___Faulters.exe	65c9f874a9bd97ff

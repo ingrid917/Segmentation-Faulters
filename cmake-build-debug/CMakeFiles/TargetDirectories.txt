@@ -1,0 +1,3 @@
+C:/Users/Matei Ingrid/Documents/FACULTATE UBB/An I/Sem II/OOP/Lab/OOP_Lab5/Proiect OOP Ioana Marica User/ProiectOOP/cmake-build-debug/CMakeFiles/Segmentation___Faulters.dir
+C:/Users/Matei Ingrid/Documents/FACULTATE UBB/An I/Sem II/OOP/Lab/OOP_Lab5/Proiect OOP Ioana Marica User/ProiectOOP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Matei Ingrid/Documents/FACULTATE UBB/An I/Sem II/OOP/Lab/OOP_Lab5/Proiect OOP Ioana Marica User/ProiectOOP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
