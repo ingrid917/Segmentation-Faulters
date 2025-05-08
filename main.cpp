@@ -6,4 +6,3 @@ int main(){
 	cout<<"end my suffering";
 	return 0;
   }
-/
